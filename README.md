@@ -1,4 +1,4 @@
-# Clifford Attractor
+# Clifford Attractor (WORK IN PROGRESS)
 
 Welcome to the Clifford Attractor repository! Explore the captivating world of chaotic dynamics and strange attractors.
 
