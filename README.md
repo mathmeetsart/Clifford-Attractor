@@ -66,7 +66,7 @@ You can save the plot as an image file by uncommenting the following line in the
 
 Below are some sample images generated using the code in this repository:
 
-![Clifford Attractor](https://github.com/mathmeetsart/Clifford-Attractor/assets/157393083/a5db3437-0e81-4bc7-aef7-cefb531b6f7e)
+![Clifford Attractor](https://github.com/mathmeetsart/Clifford-Attractor/assets/157393083/c58dfba5-25bf-4bf7-b864-8cd56d76a4cb)
 
 Explore the code, create your own visualizations, and experience the beauty of the Clifford Attractor's chaotic dynamics!
 <br/><br/>
