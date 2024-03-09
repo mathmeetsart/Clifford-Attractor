@@ -66,7 +66,7 @@ You can save the plot as an image file by uncommenting the following line in the
 
 Below are some sample images generated using the code in this repository:
 
-1. ![Image 1](image1.png)
+![image](https://github.com/mathmeetsart/Clifford-Attractor/assets/157393083/a5db3437-0e81-4bc7-aef7-cefb531b6f7e)
 2. ![Image 2](image2.png)
 3. ![Image 3](image3.png)
 
